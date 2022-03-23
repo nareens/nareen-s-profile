@@ -1,0 +1,116 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    background-image: url(https://eskipaper.com/images/dark-gradient-wallpaper-1.jpg);
+}
+
+
+.contaner{
+    display: flex;
+    flex-direction: column;
+    margin-top: 8%;
+    background-color: whitesmoke ;
+    width: 60%;
+    height: 300%;
+    border-radius: 15px;
+    max-width: 50%;
+  
+   
+    }
+
+/**sectionA**/
+.DIV1{
+    font-size: 50PX;
+    padding-top: 5%;
+    padding-left: 5%;
+    font-family: 'Anton', sans-serif
+    
+    
+}
+
+.div2{
+display: flex;
+flex-direction: row;
+font-family: 'Anton', sans-serif;
+margin-left:5%;
+}
+
+
+
+.icon{
+    padding-left: 20px;
+    padding-right: 20px;
+   
+}
+
+.div23{
+   align-items: center;
+   padding-left: 5%;
+}
+   svg{
+    padding-left: 5%;
+    }
+
+
+
+
+/**sectionB**/
+.div4{
+    display: flex;
+    
+}
+
+img{
+    margin-left: 20%;
+    border-radius: 10px;
+}
+
+.div42{
+    font-family: 'Anton', sans-serif;
+    margin-left: 10%;
+}
+/**sectionc**/
+
+textarea{
+    margin-left: 2%;
+    border-radius: 15px;
+    height: 70px;
+    width: 250px;
+    margin-top: 10px;
+}
+
+.div5{
+    display: flex;
+    font-family: 'Anton', sans-serif;
+    font-size: 15px;
+    margin-left: 5%;
+
+    
+}
+.div51{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+button{
+    border-radius: 5px;
+    background-color: rgb(192, 187, 187);
+    height: 30%;
+    width: 30%;
+    margin-top: 3%;
+    margin-left: 35%;
+    margin-bottom: 3%;
+    font-family: 'Anton', sans-serif;
+   
+    
+}
+.div52{
+    display: flex;
+    justify-content: center;
+}
+input{
+    margin-left: 5px;
+    
+}
